@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T02:30:00.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="2ii1oSlGQ4F9GfLYsP85" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T02:30:34.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="gUv-mAyR10PyJdu_6ehI" version="20.4.0" type="github">
   <diagram id="LoPpnNokV7QUSKFDtrZj" name="第 1 页">
     <mxGraphModel dx="1426" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,21 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wTKocfY7pGn_5hljqIsx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wTKocfY7pGn_5hljqIsx-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wTKocfY7pGn_5hljqIsx-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTKocfY7pGn_5hljqIsx-4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wTKocfY7pGn_5hljqIsx-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wTKocfY7pGn_5hljqIsx-6" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
